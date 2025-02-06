@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**softy799/softy799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ErronnBridgewater/ErronnBridgewater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-- 🌱 I'm currently learning Python and Java
+- 📚 Freshman at NYU Tandon School of Engineering, majoring in Applied Physics.
+- 💜 Currently working as an NYU Admissions Ambassador.
+- 👨🏾‍🔬 CSTEP Scholar 
+- 📖 Gates Scholar of Cohrot VII 
+- 🌱 I'm currently learning Python and Java. 
 - 📫 How to reach me: bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
 - ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years. 
