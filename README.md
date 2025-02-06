@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently working on..
+ 
 - 🌱 I'm currently learning Python and Java
-- 📫 How to reach me: bridgewater118@gmail.com 
-- ⚡ Fun fact: I've been playing the violin for 8 years. 
+- 📫 How to reach me: bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
+- ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years. 
