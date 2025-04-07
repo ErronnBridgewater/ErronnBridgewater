@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📚 Freshman at NYU Tandon School of Engineering, majoring in Applied Physics.
 - 💜 Currently working as an NYU Admissions Ambassador.
 - 👨🏾‍🔬 CSTEP Scholar 
-- 📖 Gates Scholar of Cohrot VII 
+- 📖 Gates Scholar of Cohort VII 
 - 🌱 I'm currently learning Python and Java. 
 - 📫 How to reach me: bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
 - ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years. 
