@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 Freshman at NYU Tandon School of Engineering, majoring in Applied Physics.
-- 💜 Currently working as an NYU Admissions Ambassador.
+- 📚 Sophmore at NYU Tandon School of Engineering, majoring in Applied Physics.
 - 👨🏾‍🔬 CSTEP Scholar 
 - 📖 Gates Scholar of Cohort VII 
 - 🌱 I'm currently learning Python and Java. 
