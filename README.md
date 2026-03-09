@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 Sophmore at NYU Tandon School of Engineering, majoring in Applied Physics.
+- 📚 Sophmore at NYU Tandon School of Engineering, majoring in Business and Technology Management.
 - 👨🏾‍🔬 CSTEP Scholar 
 - 📖 Gates Scholar of Cohort VII 
 - 🌱 I'm currently learning Python and Java. 
