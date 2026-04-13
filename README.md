@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👨🏾‍🔬 CSTEP Scholar 
 - 📖 Gates Scholar of Cohort VII 
 - 🌱 I'm currently learning Python and Java. 
-- 📫 How to reach me: bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
+- 📫 How to reach me: eeb9759@nyu.edu/bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
 - ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years. 
