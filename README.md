@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 - 📚 Sophmore at NYU Tandon School of Engineering, majoring in Business and Technology Management.
 - 👨🏾‍🔬 CSTEP Scholar 
-- 📖 Gates Scholar of Cohort VII 
+- 📖 Gates Scholar of Cohort VII
+- Codepath and Colorstack Fellow
 - 🌱 I'm currently learning Python and Java. 
 - 📫 How to reach me: eeb9759@nyu.edu/bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
 - ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years. 
