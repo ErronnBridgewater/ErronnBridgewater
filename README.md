@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 Sophmore at NYU Tandon School of Engineering, majoring in Business and Technology Management.
+- 📚 Rising Junior at NYU Tandon School of Engineering, majoring in Business and Technology Management.
 - 👨🏾‍🔬 CSTEP Scholar 
 - 📖 Gates Scholar of Cohort VII
+- Ron Brown Captain
 - Codepath and Colorstack Fellow
-- 🌱 I'm currently learning Python and Java. 
+- 🌱 I'm currently learning Machine Learning, Artifical Inteligence and SQL. 
 - 📫 How to reach me: eeb9759@nyu.edu/bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
 - ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years. 
