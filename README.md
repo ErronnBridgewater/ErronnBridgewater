@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - Ron Brown Captain
 - Codepath and Colorstack Fellow
 - 🌱 I'm currently learning Machine Learning, Artifical Inteligence and SQL. 
-- 📫 How to reach me: eeb9759@nyu.edu/bridgewater118@gmail.com and https://linkedin.com/in/erronnbridgewater
-- ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years. 
+- 📫 How to reach me: eeb9759@nyu.edu and https://linkedin.com/in/erronnbridgewater
+- ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years.
+
+- [![Erronn's GitHub stats](https://github-stats-extended.vercel.app/api?username=ErronnBridgewater)](https://github.com/stats-organization/github-stats-extended)
