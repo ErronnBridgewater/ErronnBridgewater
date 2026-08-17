@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📖 Gates Scholar of Cohort VII
 - Ron Brown Captain
 - Codepath and Colorstack Fellow
-- 🌱 I'm currently learning Machine Learning, Artifical Inteligence and SQL. 
+- 🌱 I'm currently learning SQL, Tableau and DSA. 
 - 📫 How to reach me: eeb9759@nyu.edu and https://linkedin.com/in/erronnbridgewater
 - ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years.
 
