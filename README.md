@@ -46,10 +46,7 @@ Always happy to connect with fellow builders.
 
 ---
 
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
-</p>
+
 
 ### 🛠️ Stack & Technical Toolkit
 
@@ -93,7 +90,5 @@ Always happy to connect with fellow builders.
 
 </div>
 
- [![Erronn's GitHub stats](https://github-stats-extended.vercel.app/api?username=ErronnBridgewater)](https://github.com/stats-organization/github-stats-extended)
- ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+
 
