@@ -4,6 +4,7 @@
 
 **Business & Technology Management @ NYU Tandon School of Engineering**  
 **AI4ALL Ignite Fellow**
+
 *Technology Innovation in Finance • Applied AI Engineering • Product Strategy*
 
 <br/>
