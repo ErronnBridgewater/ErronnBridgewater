@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I've been playing acosutic and electric violin for 9 years.
 
 - [![Erronn's GitHub stats](https://github-stats-extended.vercel.app/api?username=ErronnBridgewater)](https://github.com/stats-organization/github-stats-extended)
+- ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
