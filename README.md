@@ -29,7 +29,9 @@ My portfolio sits at the intersection of **product strategy, quantitative analys
 Outside of academics and projects, I also serve as the Pre-College Initiative Chair of New York University's National Society of Black Engineers chapter and a Colorstack fellow. As a first generation, low-income student, I am passionate about creating and contributing towards communities that assist students with similar backgrounds succeed in STEM-related career paths. 
 
 
-Beyond tech and finance, I've been playing acoustic and electric violin for 9+ years and enjoy creative writing. I also love competing in fighting game tournaments, horror movies, soccer, painting, figure collecting, and listening to hip-hop and alternative rock. I currently learning Japanese and French. 
+Beyond tech and finance, I've been playing acoustic and electric violin for 9+ years and enjoy creative writing. I also love competing in fighting game tournaments, horror movies, soccer, painting, figure collecting, and listening to hip-hop and alternative rock. 
+
+I am currently learning SQL and Tableau. I am also currently learning Japanese and French. 
 
 Always happy to connect with fellow builders. 
 
