@@ -1,52 +1,27 @@
-<div align="center">
-
-# Erronn Bridgewater
-
-**Business & Technology Management @ NYU Tandon School of Engineering**  
-**AI4ALL Ignite Fellow**
-
-*Technology Innovation in Finance • Applied AI Engineering • Product Strategy*
-
-<br/>
-
-<a href="https://linkedin.com/in/erronnblog"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:eeb9759@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/NYC-100000?style=flat-square&logo=map-pin&logoColor=white)
-![](https://img.shields.io/badge/Open_to_Summer_2027_Internships-0A66C2?style=flat-square)
-![](https://img.shields.io/badge/Focus-Product_Management_|_Fintech_|_AI-informational?style=flat-square)
-
-</div>
-
----
 
 ### 🚀 About Me
 
-My portfolio sits at the intersection of **product strategy, quantitative analysis, and emerging AI technologies**. Currently a junior at NYU Tandon, I focus on transforming complex data models into deployable products and systems. 
+## 👋 Hi, I'm Erronn
 
-Outside of academics and projects, I also serve as the Pre-College Initiative Chair of New York University's National Society of Black Engineers chapter and a Colorstack fellow. As a first generation, low-income student, I am passionate about creating and contributing towards communities that assist students with similar backgrounds succeed in STEM-related career paths. 
+Junior at **NYU Tandon** building tools and systems that make a meaningful impact on people's lives at a global scale. Currently looking to break into product and technical program management roles. 
 
+**What I do**
+Data & Statistical analysis · Technical project management · User research · Software engineering · AI engineering · Financial analysis · Game Programming
 
-Beyond tech and finance, I've been playing acoustic and electric violin for 9+ years and enjoy creative writing. I also love competing in fighting game tournaments, horror movies, soccer, painting, figure collecting, and listening to hip-hop and alternative rock. 
+**Community**
+- Pre-College Initiative Chair, NYU National Society of Black Engineers
+- Member of ColorStack, CodePath, Black Venture Capital Consortium, BlackGen Capital, Product Haven, NYU Product Management Club, and Tech@NYU
+- As a first-generation, low-income student, I'm always looking for ways to support communities that help students with similar backgrounds succeed in STEM careers.
 
-I am currently learning SQL and Tableau. I am also currently learning Japanese and French. 
+**Currently learning**
+SQL · Tableau · Figma · Japanese · French
 
-Always happy to connect with fellow builders. 
+**Beyond Academics and Tech**
+Acoustic and electric violin (9+ years), creative writing, painting, figure collecting, soccer, horror movies, hip-hop and alternative rock, and competing in fighting game tournaments.
 
+🤝 Always happy to connect with fellow builders.
 ---
 
-### 💼 Experience & Fellowships
-
-| Role & Organization | Impact / Focus Area |
-| :--- | :--- |
-| **AI Model Training & Evaluation Fellow**<br/>*Handshake (Project Hedgehog) • Dec 2025 – Present* | Developed domain-specific LLM evaluation frameworks, prompt benchmarks, and automated drift detection scripts for production AI workflows. |
-| **Applied AI Engineering Pathway Fellow**<br/>*CodePath • Feb 2026 - May 2026* | Engineered AI systems and RAG pipelines; integrated real-time evaluation metrics and data monitoring models using Python and modern APIs. |
-| **Mission Systems Engineer**<br/>*NASA L'SPACE Concept Academy • Jan 2025 – May 2025* | Co-designed Science Traceability Matrices (STM), trade studies, and subsystem life-cycle cost models for planetary exploration mission designs. |
-| **Pre-College Initiative Chair**<br/>*National Society of Black Engineers (NSBE) • Apr 2025 – Present* | Leading STEM access programs, high school outreach initiatives, and technical readiness workshops across New York City. |
-
----
 
 
 
@@ -65,9 +40,6 @@ Always happy to connect with fellow builders.
 
 <br/>
 
-| 🤖 AI & Analytics | 💻 Engineering & Tools | 📈 Product & Strategy |
-| :--- | :--- | :--- |
-| • Model Evaluation & Drift<br/>• LLM Prompt Benchmarking<br/>• Exploratory Data Analysis<br/>• Statistical Modeling | • Python / Java<br/>• Pandas & NumPy<br/>• Git / GitHub Actions<br/>• VS Code & Jupyter | • Technical Product Discovery<br/>• Systems Architecture<br/>• Stakeholder Management<br/>• Cost & Risk Modeling |
 
 ---
 
@@ -75,18 +47,25 @@ Always happy to connect with fellow builders.
 
 | Program / Recognition | Details |
 | :--- | :--- |
-| **Expedition EY Scholar** | Selected for Ernst & Young's technology and leadership innovation program. |
-| **Gates Scholar & CSTEP Scholar** | Academic excellence and STEM leadership cohorts. |
+| **AI4ALL Technical Insight Award** | Received for demonstration of strong technical thinking and execution in ML Project. |
+| **Gates Scholar** | Received highly selective, last-dollar scholarship for outstanding academic excellence and strong leadership skills. |
 | **Ron Brown Captain** | Community leadership and civic engagement fellowship. |
+| **BVCC 2026 Product Management Fall Cohort Track** | Completing for 10-week product management curriculum on product strategy, competitive analysis and stakeholder collaboration. |
+| **Completion of Codepath Foundations of AI Engineering with Honors** | Completed technical course specliazed in developing ai-assisted software and workfloes with high marks. |
+| **SMBC Explore** | Completed one-day career summit focused on the financial services industry. |
+| **Capital One Product Symmit Fellow** | Attended intensive two-day summit, engaging in hands-on workshops, collaborative case studies and leadership panels focused on product management and development. |
+| **Expedition EY Scholar** | Selected for Ernst & Young's technology and leadership innovation program. |
+| **Goldman Sachs Engineering Possibilities Summit** | Selected for Goldman Sachs's specialized virtual development program for aspiring engineers. |
+| **2024 President's Volunteer Service Award** | Recognized for250+ hours in community service. |
 | **ColorStack Fellow** | Active member of the nationwide tech community for underrepresented technologists. |
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### 📫 Let's Connect!
 
-**Open to Summer 2027 roles in Data Analytics, Product Management, AI Engineering, and Fintech.**
+**Open to Summer 2027 roles in Product Management, Technical Program Management, AI Engineering, and Business Strategy/Operations.**
 
 [eeb9759@nyu.edu](mailto:eeb9759@nyu.edu) • [LinkedIn](https://linkedin.com/in/erronnblog)
 
