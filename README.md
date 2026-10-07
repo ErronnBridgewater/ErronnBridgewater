@@ -5,18 +5,22 @@
 
 Junior at **NYU Tandon** building tools and systems that make a meaningful impact on people's lives at a global scale. Currently looking to break into product and technical program management roles. 
 
-**What I do**
+**What I do**:
+
 Data & Statistical analysis · Technical project management · User research · Software engineering · AI engineering · Financial analysis · Game Programming
 
-**Community**
+**Community**:
+
 - Pre-College Initiative Chair, NYU National Society of Black Engineers
 - Member of ColorStack, CodePath, Black Venture Capital Consortium, BlackGen Capital, Product Haven, NYU Product Management Club, and Tech@NYU
 - As a first-generation, low-income student, I'm always looking for ways to support communities that help students with similar backgrounds succeed in STEM careers.
 
-**Currently learning**
+**Currently learning**:
+
 SQL · Tableau · Figma · Japanese · French
 
-**Beyond Academics and Tech**
+**Beyond Academics and Tech**:
+
 Acoustic and electric violin (9+ years), creative writing, painting, figure collecting, soccer, horror movies, hip-hop and alternative rock, and competing in fighting game tournaments.
 
 🤝 Always happy to connect with fellow builders.
