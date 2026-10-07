@@ -3,7 +3,8 @@
 
 ## 👋 Hi, I'm Erronn
 
-Junior at **NYU Tandon** building tools and systems that make a meaningful impact on people's lives at a global scale. Currently looking to break into product and technical program management roles. 
+Junior at **NYU Tandon** 
+Building tools and systems that make a meaningful impact on people's lives at a global scale. Currently looking to break into product and technical program management roles. 
 
 **What I do**:
 
